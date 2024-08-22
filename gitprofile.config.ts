@@ -100,18 +100,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Apple',
+      position: 'Technical Specialist',
+      from: 'February 2023',
+      to: 'September 2023',
+      companyLink: 'https://www.apple.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Apple',
+      position: 'Specialist',
+      from: 'July 2022',
+      to: 'February 2023',
+      companyLink: 'https://www.apple.com',
     },
   ],
   certifications: [
