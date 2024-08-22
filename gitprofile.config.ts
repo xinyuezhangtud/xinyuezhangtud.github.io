@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Coverage optimization by Mobile Robots with Non-identical Maximum Speeds',
           description:
-            'At the end of my bachelor in Mechanical Engineering, we wrote a thesis and presented a control algorithm for the placement of multiple robots with non-identical maximum speeds across a given domain, guided by a probability density function signifying the weight of each point in this domain. The goal was to minimize the time it takes for the set of robots to collectively cover all points in the domain. Performance evaluation shows that our non-identical maximum speeds (NSMR) algorithm outperforms Lloyd\'s algorithm, with the latter using conventional Voronoi regions. We further augment the NSMR algorithm with a heuristic to derive starting positions for the robots, generally resulting in an improved expected response time$^2$',
+            'At the end of my bachelor in Mechanical Engineering, we wrote a thesis and presented a control algorithm for the placement of multiple robots with non-identical maximum speeds across a given domain, guided by a probability density function signifying the weight of each point in this domain. The goal was to minimize the time it takes for the set of robots to collectively cover all points in the domain. Performance evaluation shows that our non-identical maximum speeds algorithm outperforms Lloyd\'s algorithm. We also implemeneted a heuristic to derive starting positions for the robots, resulting in an improved expected response time squared.',
           imageUrl:
             'https://drive.google.com/file/d/1cXCGIDAL0ttIydA0nRmWGBNQhJWVJsvN/view?usp=sharing',
           link: 'https://example.com',
