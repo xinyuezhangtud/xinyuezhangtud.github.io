@@ -37,15 +37,15 @@ const CONFIG = {
           description:
             'During my Master Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we performed used system identification for the parameters. We implemented two a LQR and MPC controller with constraints.',
           imageUrl:
-            'https://imgur.com/a/bHZM41o',
+            'https://drive.google.com/file/d/1_m7zDRFlZz8UOlGhy48ZI2029m-abx4j/view?usp=sharing',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Coverage optimization by Mobile Robots with Non-identical Maximum Speeds',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'At the end of my bachelor in Mechanical Engineering, we wrote a thesis and presented a control algorithm for the placement of multiple robots with non-identical maximum speeds across a given domain, guided by a probability density function signifying the weight of each point in this domain. The goal was to minimize the time it takes for the set of robots to collectively cover all points in the domain. Performance evaluation shows that our non-identical maximum speeds (NSMR) algorithm outperforms Lloyd\'s algorithm, with the latter using conventional Voronoi regions. We further augment the NSMR algorithm with a heuristic to derive starting positions for the robots, generally resulting in an improved expected response time$^2$',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://drive.google.com/file/d/1cXCGIDAL0ttIydA0nRmWGBNQhJWVJsvN/view?usp=sharing',
           link: 'https://example.com',
         },
       ],
@@ -123,24 +123,24 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: '3D CAD Solidworks',
+      body: 'Associate level',
+      year: 'November 2019',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Delft University of Technology',
+      degree: 'Msc Systems and Control Engineering',
+      from: '2023',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Delft University of Technology',
+      degree: 'Bsc Mechanical Engineering',
+      from: '2019',
+      to: '2023',
     },
   ],
   // publications: [
@@ -164,11 +164,11 @@ const CONFIG = {
   //   // },
   // ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
-  },
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: 'arifszn', // to hide blog section, keep it empty
+  //   limit: 2, // How many articles to display. Max is 10.
+  // },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
