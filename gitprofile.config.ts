@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'During my master in Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we performed used system identification for the parameters. We implemented two a LQR and MPC controller with constraints.',
           imageUrl:
-            'https://imgur.com/YIhIuWk',
+            'https://imgur.com/gallery/reaction-wheel-pendulum-bHZM41o',
           link: 'https://example.com',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'During my master in Control Engineering I wrote a paper about a linear model predictive control (MPC) approach for the Pendubot system. First we derived the nonlinear system dynamics of the linearized around the upwards equilibrium points. Various MPC controllers were then implemented among which, state-feedback regulation MPC and output-feedback MPC with disturbance rejection. By making certain strategic assumptions, asymptotic stability can be guaranteed for the origin of the closed-loop linearized system. Numerical simulations are presented demonstrating the performance of MPC under different conditions.',
           imageUrl:
-            'https://imgur.com/HS5NqT3',
+            'https://imgur.com/gallery/HS5NqT3',
           link: 'https://example.com',
         },
       ],
