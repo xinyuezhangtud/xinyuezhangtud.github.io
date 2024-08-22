@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Integration Project of a Reaction Penduluml',
           description:
-            'During my Master Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we performed used system identification for the parameters. We implemented two a LQR and MPC controller with constraints.',
+            'During my master in Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we performed used system identification for the parameters. We implemented two a LQR and MPC controller with constraints.',
           imageUrl:
             'https://imgur.com/YIhIuWk',
           link: 'https://example.com',
@@ -46,6 +46,14 @@ const CONFIG = {
             'At the end of my bachelor in Mechanical Engineering, we wrote a thesis and presented a control algorithm for the placement of multiple robots with non-identical maximum speeds across a given domain, guided by a probability density function signifying the weight of each point in this domain. The goal was to minimize the time it takes for the set of robots to collectively cover all points in the domain. Performance evaluation shows that our non-identical maximum speeds algorithm outperforms Lloyd\'s algorithm. We also implemeneted a heuristic to derive starting positions for the robots, resulting in an improved expected response time squared.',
           imageUrl:
             'https://drive.google.com/file/d/1cXCGIDAL0ttIydA0nRmWGBNQhJWVJsvN/view?usp=sharing',
+          link: 'https://example.com',
+        },
+        {
+          title: 'A model predictive control approach to stabilize a Pendubot',
+          description:
+            'During my master in Control Engineering I wrote a paper about a linear model predictive control (MPC) approach for the Pendubot system. First we derived the nonlinear system dynamics of the linearized around the upwards equilibrium points. Various MPC controllers were then implemented among which, state-feedback regulation MPC and output-feedback MPC with disturbance rejection. By making certain strategic assumptions, asymptotic stability can be guaranteed for the origin of the closed-loop linearized system. Numerical simulations are presented demonstrating the performance of MPC under different conditions.',
+          imageUrl:
+            'https://imgur.com/HS5NqT3',
           link: 'https://example.com',
         },
       ],
