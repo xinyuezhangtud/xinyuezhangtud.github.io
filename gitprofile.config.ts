@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'During my Master Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we performed used system identification for the parameters. We implemented two a LQR and MPC controller with constraints.',
           imageUrl:
-            'https://drive.google.com/file/d/1_m7zDRFlZz8UOlGhy48ZI2029m-abx4j/view?usp=sharing',
+            'https://imgur.com/YIhIuWk',
           link: 'https://example.com',
         },
         {
