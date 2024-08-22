@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'During my master in Control Engineering I wrote a paper about a linear model predictive control (MPC) approach for the Pendubot system. First we derived the nonlinear system dynamics of the linearized around the upwards equilibrium points. Various MPC controllers were then implemented among which, state-feedback regulation MPC and output-feedback MPC with disturbance rejection. By making certain strategic assumptions, asymptotic stability can be guaranteed for the origin of the closed-loop linearized system. Numerical simulations are presented demonstrating the performance of MPC under different conditions.',
           imageUrl:
-            'https://imgur.com/gallery/HS5NqT3',
+            'https://i.imgur.com/gallery/HS5NqT3.jpg',
           link: 'https://example.com',
         },
       ],
@@ -91,20 +91,10 @@ const CONFIG = {
       'https://drive.google.com/file/d/1ULdXrC9KZ4jMdsUoTaasfG0uE9UY9kCq/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Python',
+    'Matlab''
+    'Simulink'
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
