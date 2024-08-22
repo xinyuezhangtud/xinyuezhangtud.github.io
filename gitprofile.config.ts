@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Integration Project of a Reaction Pendulum',
           description:
-            'During my master in Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we performed used system identification for the parameters. We implemented two a LQR and MPC controller with constraints.',
+            'During my master in Control Engineering, after succesfully completing the obligatory theoretical courses we were tasked to intagrate the knowledge gained into a system. We started with modelling the physical system of a reaction wheel pendulum after which we used grey box system identification for the parameters. Some of the states were immeasurable and to solve that we designed and tuned a Luenberger observer. We implemented both an LQR and MPC controller with constraints that is able to stabilize the reaction wheel pendulum about the upwards unstable equilibrium and reject certain disturbances.',
           imageUrl:
             'https://i.imgur.com/YIhIuWk.jpg',
           // link: 'https://example.com',
