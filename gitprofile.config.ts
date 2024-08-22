@@ -100,6 +100,13 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'X TU Delft',
+      position: 'Host',
+      from: 'May 2024',
+      to: 'present',
+      companyLink: 'https://www.tudelft.nl/x',
+    },
+    {
       company: 'Apple',
       position: 'Technical Specialist',
       from: 'February 2023',
