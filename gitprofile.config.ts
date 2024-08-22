@@ -92,8 +92,8 @@ const CONFIG = {
   },
   skills: [
     'Python',
-    'Matlab''
-    'Simulink'
+    'Matlab',
+    'Simulink',
     'Git',
   ],
   experiences: [
